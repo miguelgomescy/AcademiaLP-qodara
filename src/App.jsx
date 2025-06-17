@@ -191,28 +191,28 @@ function App() {
                 <div className="trainer-image">
                   <img src="/17.png?height=200&width=200" alt="Treinadora 2" />
                 </div>
-                <h4>Junilson Resenhilson</h4>
+                <h4>Mestre Junior</h4>
                 <p>Instrutora de Pilates</p>
               </div>
               <div className="trainer-card">
                 <div className="trainer-image">
                   <img src="/18.png?height=200&width=200" alt="Treinador 3" />
                 </div>
-                <h4>Nelson Reseinha</h4>
+                <h4>Instrutor Nelson</h4>
                 <p>Personal Trainer</p>
               </div>
               <div className="trainer-card">
                 <div className="trainer-image">
                   <img src="/19.png?height=200&width=200" alt="Treinadora 4" />
                 </div>
-                <h4>Aninha da Resenha</h4>
+                <h4>Professora Maria Silva</h4>
                 <p>Instrutora de Spinning</p>
               </div>
               <div className="trainer-card">
                 <div className="trainer-image">
                   <img src="/20.png?height=200&width=200" alt="Treinadora 4" />
                 </div>
-                <h4>Maria Gracinha da Silva</h4>
+                <h4>Professora Claudia</h4>
                 <p>Instrutora de Spinning</p>
               </div>
             </div>
